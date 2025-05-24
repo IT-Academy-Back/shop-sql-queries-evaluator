@@ -1,4 +1,4 @@
-# 📌 Sprint 2.2: SQL Evaluator
+# 📌 Sprint 2.2: SQL Evaluator (Tienda)
 
 ## Com usar l’evaluador de SQL Queries
 
